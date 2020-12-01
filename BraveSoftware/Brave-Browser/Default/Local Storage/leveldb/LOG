@@ -1,0 +1,6 @@
+2020/12/01-13:58:53.573 1ca8 Reusing MANIFEST /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/01-13:58:53.576 1ca8 Recovering log #1470
+2020/12/01-13:58:53.584 1ca8 Reusing old log /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001470.log 
+2020/12/01-14:42:53.231 1cbc Level-0 table #1473: started
+2020/12/01-14:42:53.237 1cbc Level-0 table #1473: 15676 bytes OK
+2020/12/01-14:42:53.241 1cbc Delete type=0 #1470

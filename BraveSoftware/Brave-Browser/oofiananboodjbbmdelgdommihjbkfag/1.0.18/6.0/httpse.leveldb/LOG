@@ -1,0 +1,7 @@
+2020/12/01-13:58:54.218 1cbc Recovering log #3
+2020/12/01-13:58:54.723 1cbc Level-0 table #5: started
+2020/12/01-13:58:54.892 1cbc Level-0 table #5: 2853472 bytes OK
+2020/12/01-13:58:54.900 1cbc Recovering log #47
+2020/12/01-13:58:54.908 1cbc Delete type=0 #3
+2020/12/01-13:58:54.908 1cbc Delete type=0 #47
+2020/12/01-13:58:54.908 1cbc Delete type=3 #2

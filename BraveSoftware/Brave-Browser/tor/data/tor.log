@@ -1,0 +1,22 @@
+Nov 29 05:09:53.000 [notice] Tor 0.4.4.6 opening new log file.
+Nov 29 05:09:53.436 [notice] Tor 0.4.4.6 running on Linux with Libevent 2.1.11-stable, OpenSSL 1.0.2u, Zlib 1.2.11, Liblzma N/A, and Libzstd N/A.
+Nov 29 05:09:53.436 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 29 05:09:53.436 [notice] Configuration file "/nonexistent" not present, using reasonable defaults.
+Nov 29 05:09:53.441 [notice] Opening Socks listener on 127.0.0.1:0
+Nov 29 05:09:53.441 [notice] Socks listener listening on port 44937.
+Nov 29 05:09:53.441 [notice] Opened Socks listener on 127.0.0.1:44937
+Nov 29 05:09:53.441 [notice] Opening Control listener on 127.0.0.1:0
+Nov 29 05:09:53.441 [notice] Control listener listening on port 37775.
+Nov 29 05:09:53.441 [notice] Opened Control listener on 127.0.0.1:37775
+Nov 29 05:09:53.000 [notice] Bootstrapped 0% (starting): Starting
+Nov 29 05:09:53.000 [notice] Starting with guard context "default"
+Nov 29 05:09:53.000 [notice] New control connection opened from 127.0.0.1.
+Nov 29 05:09:55.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Nov 29 05:09:55.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Nov 29 05:09:55.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Nov 29 05:09:55.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Nov 29 05:09:55.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Nov 29 05:09:55.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Nov 29 05:09:55.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Nov 29 05:09:57.000 [notice] Bootstrapped 100% (done): Done
+Nov 29 05:22:26.000 [notice] Catching signal TERM, exiting cleanly.

@@ -1,0 +1,8 @@
+2020/11/27-08:54:04.941 36f Reusing MANIFEST /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-08:54:04.944 36f Recovering log #21
+2020/11/27-08:54:04.944 36f Reusing old log /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000021.log 
+2020/11/27-08:54:09.422 36f Level-0 table #25: started
+2020/11/27-08:54:09.422 36f Level-0 table #25: 0 bytes OK
+2020/11/27-08:54:09.429 36f Delete type=0 #21
+2020/11/27-08:54:09.429 36f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/27-08:54:09.429 36f Manual compaction at level-1 from (begin) .. (end); will stop at (end)
